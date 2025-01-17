@@ -4,7 +4,7 @@ import schedule
 from datetime import datetime
 
 SOURCE_MONGO_URI = "mongodb+srv://spotifymusic:wJhtT3M8bor1HN7L@cluster0.vgordpb.mongodb.net/?"
-DESTINATION_MONGO_URI = "mongodb+srv://friendzonegaming2:1AL9gMyYvy8yRyMe@cluster0.n2yps.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DESTINATION_MONGO_URI = "mongodb+srv://itsdamiann2728:M85PZ5OSbSNv6ugP@cluster0.jyygh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 def backup_data():
     """
