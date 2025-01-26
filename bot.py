@@ -3,8 +3,8 @@ from pymongo import MongoClient
 import schedule
 from datetime import datetime
 
-SOURCE_MONGO_URI = "mongodb+srv://spotifymusic:wJhtT3M8bor1HN7L@cluster0.vgordpb.mongodb.net/?"
-DESTINATION_MONGO_URI = "mongodb+srv://itsdamiann2728:M85PZ5OSbSNv6ugP@cluster0.jyygh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+SOURCE_MONGO_URI = "mongodb+srv://anshul:anshul@domain.owfrpof.mongodb.net/?retryWrites=true&w=majority"
+DESTINATION_MONGO_URI = "mongodb+srv://deadlinetech842:Ld9wIY4Cgzzb5Rg9@cluster0.ipol7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 def backup_data():
     """
